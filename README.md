@@ -56,6 +56,11 @@ Username: fork2
 
 Useful commands for this level: printenv 
 
+<details> 
+  <summary>Hint? </summary>
+		Print environment variables.
+</details>
+
 
 ### [L2 → L3]
 
@@ -64,6 +69,11 @@ Description: No visible files in the user home directory. The password is around
 Username: fork3
 
 Useful commands for this level: ls, find 
+
+<details> 
+  <summary>Hint? </summary>
+		List everything.
+</details>
 
 
 ### [L3 → L4]
@@ -74,6 +84,11 @@ Username: fork4
 
 Useful commands for this level: cat 
 
+<details> 
+  <summary>Hint? </summary>
+		Try tab for autocomplete or quoting the filename.
+</details>
+
 
 ### [L4 → L5]
 
@@ -82,6 +97,11 @@ Description: The password is a file inside this directory, but all lowercase j c
 Username: fork5
 
 Useful commands for this level: tr 
+
+<details> 
+  <summary>Hint? </summary>
+		Translate a pipe output.
+</details>
 
 
 ### [L5 → L6]
@@ -92,6 +112,11 @@ Username: fork6
 
 Useful commands for this level: less, view, cat, grep 
 
+<details> 
+  <summary>Hint? </summary>
+		Search the log files for what you’re interested in.
+</details>
+
 
 ### [L6 → L7]
 
@@ -100,6 +125,11 @@ Description: At this level, the password is inside ~/mail. There are multiple �
 Username: fork7
 
 Useful commands for this level: grep, cut, sort 
+
+<details> 
+  <summary>Hint? </summary>
+		Sort by unique values.
+</details>
 
 
 ### [L7 → L8]
@@ -110,6 +140,11 @@ Username: fork8
 
 Useful commands for this level: crontab, ls, cat 
 
+<details> 
+  <summary>Hint? </summary>
+		List cron jobs and print out the script contents.
+</details>
+
 
 ### [L8 → L9]
 
@@ -118,6 +153,11 @@ Description: The SSH password was once part of the git repository in this direct
 Username: fork9
 
 Useful commands for this level: git 
+
+<details> 
+  <summary>Hint? </summary>
+		Git good and acknowledge your history ( ͡° ͜ʖ ͡°)
+</details>
 
 
 ### [L9 → L10]
@@ -128,6 +168,11 @@ Username: fork10
 
 Useful commands for this level: N/A. 
 
+<details> 
+  <summary>Hint? </summary>
+		Switch user.
+</details>
+
 
 ### [L10 → L11]
 
@@ -137,6 +182,11 @@ Username: fork11
 
 Useful commands for this level: tar, gzip, bzip, zip. 
 
+<details> 
+  <summary>Hint? </summary>
+		Find out what type of archive it is and use the appropriate tool for the job.
+</details>
+
 
 ### [L11 → L12]
 
@@ -145,3 +195,8 @@ Description: It's all coming together... In the current directory is an archived
 Username: fork12
 
 Useful commands for this level: zip, tar, gzip, bzip, git. 
+
+<details> 
+  <summary>Hint? </summary>
+		This one’s on you.
+</details>
